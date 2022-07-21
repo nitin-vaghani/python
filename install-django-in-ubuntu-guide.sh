@@ -29,7 +29,7 @@ $ pip install django
 $ django-admin startproject sample_project_env .
 
 #Database
-The next step is migrating the database. By default, Django uses SQLite. Migrations apply any changes made to the Django models to the database schema. Run the following command to migrate the database:
+#The next step is migrating the database. By default, Django uses SQLite. Migrations apply any changes made to the Django models to the database schema. Run the following command to migrate the database:
 
 $ python manage.py migrate
 

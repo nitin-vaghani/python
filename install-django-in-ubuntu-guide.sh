@@ -15,7 +15,7 @@ $ python3 -m venv sample_project_env
 $ source sample_project_env/bin/activate
 
 #Installing Django image
-We can install Django within the environment:
+#We can install Django within the environment:
 
 $ pip install django
 

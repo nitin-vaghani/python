@@ -3,13 +3,13 @@
 #Now, it’s time to put Django into action. In this section, we’ll demonstrate how to create a sample Django project. The sample project will be created within a virtual environment.
 
 #Create a directory for the sample project:
-$mkdir -pv ~/sample_project
+$ mkdir -pv ~/sample_project
 
 #Change the current directory to the project directory:
->cd ~/sample_project
+$ cd ~/sample_project
 
 #Then, use the venv module to establish a Python virtual environment:
->>python3 -m venv sample_project_env
+$ python3 -m venv sample_project_env
 
 #The virtual environment is ready. Activate the environment:
 $ source sample_project_env/bin/activate
